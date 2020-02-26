@@ -1,6 +1,6 @@
 ﻿namespace UKE_sample02
 {
-    partial class Form1
+    partial class MainWindow
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainWindow));
             this.Label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
@@ -40,9 +40,9 @@
             this.Label1.BackColor = System.Drawing.Color.Transparent;
             this.Label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 60F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Label1.ForeColor = System.Drawing.Color.White;
-            this.Label1.Location = new System.Drawing.Point(214, 221);
+            this.Label1.Location = new System.Drawing.Point(12, 221);
             this.Label1.Name = "Label1";
-            this.Label1.Size = new System.Drawing.Size(773, 162);
+            this.Label1.Size = new System.Drawing.Size(1163, 162);
             this.Label1.TabIndex = 0;
             this.Label1.Text = "UK Engineering";
             this.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -87,7 +87,7 @@
             this.label3.Text = "This is a dummy text field. ";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // Form1
+            // MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -98,9 +98,8 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.Label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "MainWindow";
+            this.Text = "UK Engineering (PVT) Ltd.";
             this.ResumeLayout(false);
 
         }

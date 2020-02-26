@@ -7,3 +7,12 @@ C:\Users\Asus\source\repos\UKE sample02\UKE sample02\obj\Debug\UKE sample02.cspr
 C:\Users\Asus\source\repos\UKE sample02\UKE sample02\obj\Debug\UKE sample02.csproj.CoreCompileInputs.cache
 C:\Users\Asus\source\repos\UKE sample02\UKE sample02\obj\Debug\UKE sample02.exe
 C:\Users\Asus\source\repos\UKE sample02\UKE sample02\obj\Debug\UKE sample02.pdb
+D:\VS projects\UKE\UKE sample02\bin\Debug\UKE sample02.exe.config
+D:\VS projects\UKE\UKE sample02\bin\Debug\UKE sample02.exe
+D:\VS projects\UKE\UKE sample02\bin\Debug\UKE sample02.pdb
+D:\VS projects\UKE\UKE sample02\obj\Debug\UKE sample02.csprojAssemblyReference.cache
+D:\VS projects\UKE\UKE sample02\obj\Debug\UKE_sample02.MainWindow.resources
+D:\VS projects\UKE\UKE sample02\obj\Debug\UKE_sample02.Properties.Resources.resources
+D:\VS projects\UKE\UKE sample02\obj\Debug\UKE sample02.csproj.GenerateResource.cache
+D:\VS projects\UKE\UKE sample02\obj\Debug\UKE sample02.exe
+D:\VS projects\UKE\UKE sample02\obj\Debug\UKE sample02.pdb
