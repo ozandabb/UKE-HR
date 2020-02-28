@@ -16,3 +16,14 @@ D:\VS projects\UKE\UKE sample02\obj\Debug\UKE_sample02.Properties.Resources.reso
 D:\VS projects\UKE\UKE sample02\obj\Debug\UKE sample02.csproj.GenerateResource.cache
 D:\VS projects\UKE\UKE sample02\obj\Debug\UKE sample02.exe
 D:\VS projects\UKE\UKE sample02\obj\Debug\UKE sample02.pdb
+E:\UKE\sample01\UKE-HR\UKE sample02\bin\Debug\UKE sample02.exe.config
+E:\UKE\sample01\UKE-HR\UKE sample02\bin\Debug\UKE sample02.exe
+E:\UKE\sample01\UKE-HR\UKE sample02\bin\Debug\UKE sample02.pdb
+E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE sample02.csprojAssemblyReference.cache
+E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE_sample02.Login.resources
+E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE_sample02.MainWindow.resources
+E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE_sample02.Properties.Resources.resources
+E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE sample02.csproj.GenerateResource.cache
+E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE sample02.csproj.CoreCompileInputs.cache
+E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE sample02.exe
+E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE sample02.pdb

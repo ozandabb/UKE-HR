@@ -16,5 +16,10 @@ namespace UKE_sample02
         {
             InitializeComponent();
         }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
