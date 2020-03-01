@@ -13,7 +13,7 @@ namespace UKE_sample02
 {
     public partial class Login : Form
     {
-        //private static DataConnection con;
+        private static DataConnection con = new DataConnection();
         public Login()
         {
             InitializeComponent();
@@ -21,12 +21,19 @@ namespace UKE_sample02
 
         private void loginBtn_Click(object sender, EventArgs e)
         {
-            
-        }
+            string uname = userName.Text;
+            string pwd = password.Text;
 
-        private void Label1_Click(object sender, EventArgs e)
-        {
-            
+            //bool ret = con.AddUser(uname, pwd);
+            bool ret = con.ValidateUser(uname, pwd);
+
+            if (ret == true)
+            {
+                Label1.Text = "Success";
+            }
+            else {
+                Label1.Text = "Failed";
+            }
         }
     }
 }

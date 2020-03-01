@@ -46,7 +46,6 @@
             this.Label1.TabIndex = 0;
             this.Label1.Text = "UK Engineering";
             this.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.Label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -59,7 +58,6 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "This is a dummy text field. you can add any text ";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // LoginBtn
             // 
