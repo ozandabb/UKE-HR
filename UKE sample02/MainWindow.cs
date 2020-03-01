@@ -19,7 +19,9 @@ namespace UKE_sample02
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Login login = new Login();
+            login.Show();
+            this.Hide();
         }
 
         private void label1_Click(object sender, EventArgs e)

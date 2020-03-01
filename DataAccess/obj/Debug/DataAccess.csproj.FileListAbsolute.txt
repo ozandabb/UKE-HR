@@ -1,0 +1,7 @@
+D:\VS projects\UKE\DataAccess\bin\Debug\DataAccess.dll
+D:\VS projects\UKE\DataAccess\bin\Debug\DataAccess.pdb
+D:\VS projects\UKE\DataAccess\obj\Debug\DataAccess.dll
+D:\VS projects\UKE\DataAccess\obj\Debug\DataAccess.pdb
+D:\VS projects\UKE\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\VS projects\UKE\DataAccess\bin\Debug\Databases\UKEDatabase.mdf
+D:\VS projects\UKE\DataAccess\bin\Debug\Databases\UKEDatabase_log.ldf

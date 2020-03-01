@@ -27,3 +27,10 @@ E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE sample02.csproj.GenerateResour
 E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE sample02.csproj.CoreCompileInputs.cache
 E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE sample02.exe
 E:\UKE\sample01\UKE-HR\UKE sample02\obj\Debug\UKE sample02.pdb
+D:\VS projects\UKE\UKE sample02\obj\Debug\UKE_sample02.AdminDashboard.resources
+D:\VS projects\UKE\UKE sample02\obj\Debug\UKE_sample02.Login.resources
+D:\VS projects\UKE\UKE sample02\bin\Debug\DataAccess.dll
+D:\VS projects\UKE\UKE sample02\bin\Debug\DataAccess.pdb
+D:\VS projects\UKE\UKE sample02\obj\Debug\UKE sample02.csproj.CopyComplete
+D:\VS projects\UKE\UKE sample02\bin\Debug\Databases\UKEDatabase.mdf
+D:\VS projects\UKE\UKE sample02\bin\Debug\Databases\UKEDatabase_log.ldf
