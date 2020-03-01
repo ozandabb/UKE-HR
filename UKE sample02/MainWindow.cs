@@ -38,5 +38,12 @@ namespace UKE_sample02
         {
 
         }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            AdminDashboard admindash = new AdminDashboard();
+            admindash.Show();
+            this.Hide();
+        }
     }
 }

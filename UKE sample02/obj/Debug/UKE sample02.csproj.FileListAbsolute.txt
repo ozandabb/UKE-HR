@@ -34,3 +34,22 @@ D:\VS projects\UKE\UKE sample02\bin\Debug\DataAccess.pdb
 D:\VS projects\UKE\UKE sample02\obj\Debug\UKE sample02.csproj.CopyComplete
 D:\VS projects\UKE\UKE sample02\bin\Debug\Databases\UKEDatabase.mdf
 D:\VS projects\UKE\UKE sample02\bin\Debug\Databases\UKEDatabase_log.ldf
+E:\UKE\main\UKE-HR\UKE sample02\bin\Debug\Databases\UKEDatabase.mdf
+E:\UKE\main\UKE-HR\UKE sample02\bin\Debug\Databases\UKEDatabase_log.ldf
+E:\UKE\main\UKE-HR\UKE sample02\bin\Debug\UKE sample02.exe.config
+E:\UKE\main\UKE-HR\UKE sample02\bin\Debug\UKE sample02.exe
+E:\UKE\main\UKE-HR\UKE sample02\bin\Debug\UKE sample02.pdb
+E:\UKE\main\UKE-HR\UKE sample02\bin\Debug\DataAccess.dll
+E:\UKE\main\UKE-HR\UKE sample02\bin\Debug\DataAccess.pdb
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE sample02.csprojAssemblyReference.cache
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE_sample02.AdminDashboard.resources
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE_sample02.Login.resources
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE_sample02.MainWindow.resources
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE_sample02.Properties.Resources.resources
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE sample02.csproj.GenerateResource.cache
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE sample02.csproj.CoreCompileInputs.cache
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE sample02.csproj.CopyComplete
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE sample02.exe
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE sample02.pdb
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE_sample02.HomeUserControl.resources
+E:\UKE\main\UKE-HR\UKE sample02\obj\Debug\UKE_sample02.RegistrationUserController.resources
